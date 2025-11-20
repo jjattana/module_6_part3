@@ -18,5 +18,4 @@ This repository contains my personal student portfolio website for the DevOps co
 
 1. Clone the repository:
    git clone https://github.com/jjattana/module_6_part3.git
-
 2. Open index.html in your browser.
